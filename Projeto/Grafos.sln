@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grafos", "Grafos.csproj", "{106EBFD2-4213-41AD-AB86-FF95354AF33B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AAD18D41-933C-4374-98C5-2BFC87982150}"
+	ProjectSection(SolutionItems) = preProject
+		Arvore.cs = Arvore.cs
+		DesenhaArvore.cs = DesenhaArvore.cs
+		NoArvore.cs = NoArvore.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{106EBFD2-4213-41AD-AB86-FF95354AF33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106EBFD2-4213-41AD-AB86-FF95354AF33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106EBFD2-4213-41AD-AB86-FF95354AF33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106EBFD2-4213-41AD-AB86-FF95354AF33B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {711DA17F-B1E5-4896-B2E0-30B2AD317E66}
+	EndGlobalSection
+EndGlobal
